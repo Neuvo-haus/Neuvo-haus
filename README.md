@@ -1,92 +1,96 @@
-<!-- HEADER START -->
+<!-- HEADER ANIMATION -->
 <div align="center">
-  <!-- LOGO SECTION -->
-  <img src="./neuvo-logo.png" alt="Neuvo-haus Logo" width="200" />
+  <a href="https://neuvo.ranax.co/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=NEUVO-HAUS;Architects+of+the+Digital;React+%E2%80%A2+C%2B%2B+%E2%80%A2+Java;Sophisticated+Web+Solutions" alt="Neuvo-haus Typing Animation" />
+  </a>
 
-  <h1 style="font-size: 3rem; font-weight: bold; margin-top: 0;">Neuvo-haus</h1>
-  <h3>Architects of the Digital Web</h3>
+  <br/>
 
+  <!-- SOCIAL LINKS / WEBSITE -->
   <p>
     <a href="https://neuvo.ranax.co/">
-      <img src="https://img.shields.io/badge/Website-Visit%20Portfolio-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/PORTFOLIO-neuvo.ranax.co-000000?style=for-the-badge&logo=googlechrome&logoColor=white&color=0f0f0f&labelColor=555555" alt="Website" />
     </a>
     <a href="mailto:contact@neuvo.ranax.co">
-      <img src="https://img.shields.io/badge/Contact-Email%20Us-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/AGENCY-Contact_Us-000000?style=for-the-badge&logo=minutemailer&logoColor=white&color=0f0f0f&labelColor=555555" alt="Email" />
     </a>
   </p>
-  
-  <!-- WAVING SEPARATOR -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=100&section=header&text=&fontSize=0&animation=fadeIn" width="100%" />
 </div>
-<!-- HEADER END -->
 
-<!-- ABOUT SECTION -->
-## ◼ Who We Are
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**Neuvo-haus** is a specialized development agency focusing on high-performance web architecture and interactive user experiences. We blend the precision of low-level languages with the flexibility of modern web frameworks to build robust digital solutions.
-
-> *"We don't just build websites; we construct digital environments."*
-> <br/> 🌐 **Live Portfolio:** [neuvo.ranax.co](https://neuvo.ranax.co/)
-
-<br />
-
-<!-- TECH STACK SECTION -->
+<!-- INTRO -->
 <div align="center">
-
-## 🛠 The Arsenal
-
-<p>We leverage a diverse stack ranging from system-level languages to front-end interactivity libraries.</p>
-
-<!-- CORE STACK -->
-<img src="https://skillicons.dev/icons?i=react,js,html,css,c,cpp,java,git&perline=8&theme=dark" alt="Tech Stack" />
-
-<br /><br />
-
-<!-- LIBRARIES & TOOLS BADGES -->
-<p><b>Specialized Libraries & Tools</b></p>
-<img src="https://img.shields.io/badge/Swiper.js-Interactive_Sliders-6332F6?style=for-the-badge&logo=javascript&logoColor=white" alt="Swiper.js" />
-<img src="https://img.shields.io/badge/Email.js-API_Integration-FCA417?style=for-the-badge&logo=gmail&logoColor=white" alt="Email.js" />
-<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Tailwind-Styling-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-
+  <h3>◼ THE ARCHITECTURE</h3>
+  <p><b>Neuvo-haus</b> specializes in high-performance web engineering. We bridge the gap between heavy-metal system languages and modern, fluid web interactions.</p>
 </div>
 
-<br />
+<br/>
+
+<!-- TECH STACK - ANIMATED ICONS -->
+<div align="center">
+  <h3>⚡ THE STACK</h3>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,c,cpp,java,git,vscode,figma,nodejs&perline=6&theme=dark" />
+  
+  <br/><br/>
+  
+  <!-- SPECIFIC LIBRARIES BADGES -->
+  <table>
+    <tr>
+      <td align="center"><b>UI / INTERACTION</b></td>
+      <td align="center"><b>LOGIC / SYSTEM</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Swiper.js-v9.0-000000?style=flat-square&logo=javascript&logoColor=6332F6" />
+        <img src="https://img.shields.io/badge/Three.js-3D_Engine-000000?style=flat-square&logo=three.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-CSS-000000?style=flat-square&logo=tailwindcss&logoColor=38B2AC" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Email.js-API-000000?style=flat-square&logo=gmail&logoColor=FCA417" />
+        <img src="https://img.shields.io/badge/C++-System-000000?style=flat-square&logo=cplusplus&logoColor=00599C" />
+        <img src="https://img.shields.io/badge/Java-Backend-000000?style=flat-square&logo=openjdk&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- STATS SECTION -->
-## 📊 Github Analytics
-
 <div align="center">
-  <br />
-  <!-- GITHUB STATS -->
+  <h3>📊 PERFORMANCE METRICS</h3>
+  
+  <!-- 
+     IMPORTANT: REPLACE "YOUR_GITHUB_USERNAME" WITH YOUR ACTUAL USERNAME BELOW 
+     OR THE IMAGES WILL BE BROKEN/BLANK.
+  -->
+  
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/YOUR_GITHUB_USERNAME">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-owl&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=58A6FF" height="180" alt="Stats" />
+    </a>
+    <a href="https://github.com/YOUR_GITHUB_USERNAME">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-owl&hide_border=true&bg_color=0D1117&title_color=C9D1D9&hide=jupyter%20notebook" height="180" alt="Languages" />
+    </a>
+  </div>
+  
+  <br/>
+  
+  <!-- STREAK STATS (Adds dynamic feel) -->
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9c9c9&icon_color=FF4500&count_private=true" alt="Neuvo-haus Stats" height="180" />
-  </a>
-  <!-- MOST USED LANGUAGES -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9c9c9&icon_color=FF4500&hide=jupyter%20notebook" alt="Top Languages" height="180" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=midnight-owl&hide_border=true&background=0D1117" alt="Streak" />
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=gruvbox&no-frame=true&margin-w=15" alt="Trophies" />
-</div>
-
-<br />
-
-<!-- WORKFLOW / SERVICES -->
-## ⚡ Our Expertise
-
-| **Frontend Engineering** | **System Integration** | **Interactive UI** |
-| :--- | :--- | :--- |
-| Single Page Applications (SPA) using **React.js** | Backend logic and algorithms using **C++ / Java** | Touch-friendly interfaces with **Swiper.js** |
-| Responsive Design | Memory management & Optimization | Contact form automation via **Email.js** |
-
-<br />
+<br/><br/>
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-  
-  <p>© 2025 Neuvo-haus Agency | <a href="https://neuvo.ranax.co/">neuvo.ranax.co</a></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=0,2,25" width="100%" />
+  <p style="font-size: 12px;">© 2025 NEUVO-HAUS AGENCY • <a href="https://neuvo.ranax.co/">NEUVO.RANAX.CO</a></p>
 </div>
