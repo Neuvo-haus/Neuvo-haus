@@ -1,21 +1,24 @@
 <!-- HEADER START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=300&section=header&text=Neuvo-haus&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Architects%20of%20the%20Digital%20Web&descAlignY=51&descAlign=62" alt="Neuvo-haus Header" width="100%" />
+  <!-- LOGO SECTION -->
+  <img src="./neuvo-logo.png" alt="Neuvo-haus Logo" width="200" />
 
-  <h3>Modern Web Development • Digital Solutions • Custom Architecture</h3>
+  <h1 style="font-size: 3rem; font-weight: bold; margin-top: 0;">Neuvo-haus</h1>
+  <h3>Architects of the Digital Web</h3>
 
   <p>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME">
-      <img src="https://img.shields.io/badge/Agency-Neuvo--haus-black?style=for-the-badge&logo=github&logoColor=white" alt="Neuvo-haus" />
+    <a href="https://neuvo.ranax.co/">
+      <img src="https://img.shields.io/badge/Website-Visit%20Portfolio-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
     </a>
-    <a href="mailto:contact@neuvohaus.com">
+    <a href="mailto:contact@neuvo.ranax.co">
       <img src="https://img.shields.io/badge/Contact-Email%20Us-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
     </a>
   </p>
+  
+  <!-- WAVING SEPARATOR -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=100&section=header&text=&fontSize=0&animation=fadeIn" width="100%" />
 </div>
 <!-- HEADER END -->
-
-<br />
 
 <!-- ABOUT SECTION -->
 ## ◼ Who We Are
@@ -23,6 +26,7 @@
 **Neuvo-haus** is a specialized development agency focusing on high-performance web architecture and interactive user experiences. We blend the precision of low-level languages with the flexibility of modern web frameworks to build robust digital solutions.
 
 > *"We don't just build websites; we construct digital environments."*
+> <br/> 🌐 **Live Portfolio:** [neuvo.ranax.co](https://neuvo.ranax.co/)
 
 <br />
 
@@ -56,11 +60,11 @@
   <br />
   <!-- GITHUB STATS -->
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9c9c9&icon_color=0078D4&count_private=true" alt="Neuvo-haus Stats" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9c9c9&icon_color=FF4500&count_private=true" alt="Neuvo-haus Stats" height="180" />
   </a>
   <!-- MOST USED LANGUAGES -->
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9c9c9&icon_color=0078D4&hide=jupyter%20notebook" alt="Top Languages" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9c9c9&icon_color=FF4500&hide=jupyter%20notebook" alt="Top Languages" height="180" />
   </a>
 </div>
 
@@ -84,5 +88,5 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
   
-  <p>© 2024 Neuvo-haus Agency. All rights reserved.</p>
+  <p>© 2025 Neuvo-haus Agency | <a href="https://neuvo.ranax.co/">neuvo.ranax.co</a></p>
 </div>
